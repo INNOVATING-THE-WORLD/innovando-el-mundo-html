@@ -1,0 +1,34 @@
+.tamaño{
+    width: 150px;
+    height: 80px;
+}
+table{
+    border-spacing: 30px;
+}
+
+table{
+    text-align: center;
+    background: #252850;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    border: white double;
+    color: white;
+
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: orange;
+}
+a:hover{
+    color: white;
+}
+video{
+    width: 1000px;
+    height: 500px;
+}
+
+body{
+    width: 100%;
+}
